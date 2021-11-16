@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ClientSubPub</string>
+    <string name="txtTopic">Topic</string>
+    <string name="txtTime">Time</string>
+    <string name="txtPublishMessage">Message</string>
+    <string name="btnConnect">Connect</string>
+    <string name="btnDisconnect">Disconnect</string>
+    <string name="editIPAddress">Enter IP Address</string>
+    <string name="editGroupName">Enter Group Name</string>
+    <string name="btnAddGroup">+</string>
+    <string name="editPublishMessage">Enter Message</string>
+    <string name="btnPublishMessage">Send</string>
+    <string name="txtChoose">Connect as</string>
+    <string name="btnPublisher">Publisher</string>
+    <string name="btnSubscriber">Subscriber</string>
+    <string name="txtOption">Or</string>
+    <string name="PublishedMessages">View Messages</string>
+    <string name="txtLogMessage">Log Message</string>
+    <string name="btnSubscribe">Subscribe</string>
+    <string name="btnPlaceHolderSubscribe">Subscribe</string>
+    <string name="btnPlaceHolderUnsubscribe">Unsubscribe</string>
+</resources>
